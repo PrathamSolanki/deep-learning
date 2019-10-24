@@ -1,1 +1,1 @@
-Constant step size of 0.01
+Static Step Size 0.01

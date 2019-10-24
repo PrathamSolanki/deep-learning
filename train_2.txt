@@ -1,1 +1,1 @@
-Dynamic step size between [0.01,0.00001]
+Dynamic Step Size between [0.01,0.00001]
